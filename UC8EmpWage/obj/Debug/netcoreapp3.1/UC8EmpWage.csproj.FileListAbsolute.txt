@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\obj\Debug\netcoreapp3.1\UC8EmpWage.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\obj\Debug\netcoreapp3.1\UC8EmpWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\obj\Debug\netcoreapp3.1\UC8EmpWage.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\obj\Debug\netcoreapp3.1\UC8EmpWage.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\obj\Debug\netcoreapp3.1\UC8EmpWage.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\bin\Debug\netcoreapp3.1\UC8EmpWage.exe
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\bin\Debug\netcoreapp3.1\UC8EmpWage.deps.json
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\bin\Debug\netcoreapp3.1\UC8EmpWage.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\bin\Debug\netcoreapp3.1\UC8EmpWage.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\bin\Debug\netcoreapp3.1\UC8EmpWage.dll
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\bin\Debug\netcoreapp3.1\UC8EmpWage.pdb
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\obj\Debug\netcoreapp3.1\UC8EmpWage.dll
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\obj\Debug\netcoreapp3.1\UC8EmpWage.pdb
+C:\Users\91807\Desktop\Batch67\UC8EmpWage\obj\Debug\netcoreapp3.1\UC8EmpWage.genruntimeconfig.cache
